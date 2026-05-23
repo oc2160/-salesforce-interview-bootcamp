@@ -57,7 +57,7 @@
 ### Option 1 — View as Static UI (No AI, works offline)
 1. Clone this repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/salesforce-interview-bootcamp.git
+  https://github.com/oc2160
    ```
 2. Open `sf_bootcamp.html` in any browser
 3. The theory content, cards, and UI will fully work
@@ -140,8 +140,7 @@ salesforce-interview-bootcamp/
 - ✅ Superbadges: Apex Web Service, Record Triggered Flow, Flow Fundamentals, Agentforce Service, Flow Optimization
 - 📍 Open to: Salesforce Developer roles in Pune / Mumbai / Bangalore / Remote
 
-[![Salesforce](https://img.shields.io/badge/Salesforce-PD1_Certified-00A1E0?style=flat&logo=salesforce)](https://trailhead.salesforce.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn] - www.linkedin.com/in/omkarsfdev
 
 ---
 
